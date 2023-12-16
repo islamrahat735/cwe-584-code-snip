@@ -1,0 +1,22 @@
+{
+  "name": "code_snippet",
+  "version": "1.0.0",
+  "description": "sup",
+  "main": "codeSnip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/islamrahat735/cwe-584-code-snip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/islamrahat735/cwe-584-code-snip/issues"
+  },
+  "homepage": "https://github.com/islamrahat735/cwe-584-code-snip#readme",
+  "dependencies": {
+    "comment-json": "^4.2.3"
+  }
+}
